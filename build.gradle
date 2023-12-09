@@ -4,7 +4,7 @@ buildscript {
     ext {
         versions = [
                 kotlin: '1.8.22',
-                libsuVersion: '3.0.2',
+                libsuVersion: '5.2.2',
                 roomVersion: '2.5.2',
                 lifecycle: '2.6.1',
                 coroutines: '1.7.1',
